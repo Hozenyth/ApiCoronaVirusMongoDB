@@ -2,9 +2,9 @@
 <h1>Api usando banco de dados em nuvem MongoDB Atlas</h1>
  
  Esse projeto foi feito através do Visual Studio .NET 5.0. Referência do projeto: <a href="https://github.com/gabrielfbarros/dotnet-mongo"> 
-      Curso Dgital Innovation One
+      Curso Digital Innovation One
  </a>
- O mongoDB é um banco de dados não relacional (NoSQL) ele é utilizado pra registro de documento e as tabelas são chamadas de coleção e a coluna de atributos.
+ O mongoDB é um banco de dados não relacional (NoSQL) ele é utilizado pra registro de documento e as tabelas são chamadas de coleção e a coluna de atributos. Nesse projeto foi utilizado o MongoDB Atlas onde os dados são armazenados em nuvem podendo assim ser acesso de qualquer lugar onde se tenha uma conexão com a internet.
  
  <h2>PASSO A PASSO DO CADASTRO AO MONGODB ATLAS.</h2>
  
