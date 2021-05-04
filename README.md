@@ -15,7 +15,11 @@
   <img src="MongoDB2.png">
   
   •	Adicionar um IP no caso foi usado permitir acesso de qualquer lugar.
-  • Ir em Clusters e conectar ao cluster criado. Escolher um método de conexão e selecionar o driver C# NET e a versão. Copiar o link de acesso. OBS.: No programa no arquivo
+   <img src="MongoDB3.png">
+  • Ir em Clusters e conectar ao cluster criado. Escolher um método Connect Your Aplication, selecionar o driver C# NET e a versão. Copiar o link de acesso. OBS.: No programa no arquivo
   appsettings.json o link de acesso deve ser substituido  com o password e o MyFirstDatabase.
+  
+   <img src="MongoDB4.png"> <br>
+    <img src="MongoDB5.png">
   
  
