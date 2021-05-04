@@ -8,16 +8,15 @@
  
  <h2>PASSO A PASSO DO CADASTRO AO MONGODB ATLAS.</h2>
  
-  •	Criar um cluster. No caso foi criado um banco na opção gratuito.
+  •	Criar um cluster. No caso foi criado um banco na opção gratuito. <br>
    <img src="MongoDB1.png">
   
-  •	Criar um usuário em Network Acess com nome e senha ler e escrever no banco.
+  •	Criar um usuário em Network Acess com nome e senha ler e escrever no banco. <br>
   <img src="MongoDB2.png">
   
-  •	Adicionar um IP no caso foi usado permitir acesso de qualquer lugar.
+  •	Adicionar um IP no caso foi usado permitir acesso de qualquer lugar. <br>
    <img src="MongoDB3.png">
-  • Ir em Clusters e conectar ao cluster criado. Escolher um método Connect Your Aplication, selecionar o driver C# NET e a versão. Copiar o link de acesso. OBS.: No programa no arquivo
-  appsettings.json o link de acesso deve ser substituido  com o password e o MyFirstDatabase.
+  • Ir em Clusters e conectar ao cluster criado. Escolher um método Connect Your Aplication, selecionar o driver C# NET e a versão. Copiar o link de acesso. OBS.: No programa no arquivo appsettings.json o link de acesso deve ser substituido  com o password e o MyFirstDatabase. <br>
   
    <img src="MongoDB4.png"> <br>
     <img src="MongoDB5.png">
